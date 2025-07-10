@@ -1,95 +1,18 @@
-# 👋 Hi there, I'm Jyotiraditya Tiwary
+# 💫 About Me:
+🛰 I’m currently working on<br>Building an AI-powered LMS SaaS platform (Learnify) with real-time voice interaction using VAPI (AI agent)<br><br>Designing an AI YouTube Automation pipeline using n8n, JSON2Video, ElevenLabs, and prompt-driven voice agents<br><br>Developing CNN-based emotion recognition models and SmartConnect 6G for IoT optimization<br><br>🤝 I’m looking to collaborate on<br>Projects involving AI voice/chat agents, prompt engineering, or LLM-based tools<br><br>Full-stack web apps with AI-driven backend integrations<br><br>Research or open-source contributions in applied AI and automation<br><br>🤲 I’m looking for help with<br>Scaling and deploying AI agent systems for production use<br><br>Fine-tuning workflows for prompt orchestration and intelligent voice automation<br><br>Backend infrastructure for real-time ML agent pipelines<br><br>🌱 I’m currently learning<br>Building and integrating autonomous AI agents using tools like n8n, LangChain, ElevenLabs, and WAPI<br><br>LLM-driven task automation and AI workflow orchestration<br><br>Deep dive into backend design for scalable AI microservices<br><br>💬 Ask me about<br>How I automated AI content creation using agents (speech + video + prompts)<br><br>My research at IIT Patna on signal processing and AI integration<br><br>Learnify – my LMS SaaS app with AI voice-based lessons<br><br>⚡ Fun fact<br>I love performance — whether it's improving my 100m sprint from 13s to 11.4s 🏃‍♂️ or optimizing AI pipelines for content generation 🎬
 
-🎓 Final-year B.Tech in Electronics and Communication Engineering at **BIT Mesra**  
-💻 Full-stack Developer | 🤖 AI/ML Enthusiast | 📶 Wireless Researcher | 🏃‍♂️ Athlete & Leader
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_jyotiraditya_1602/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/jyotiraditya-tiwary-16jt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Jyotir_1602) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwaryjyotiraditya365@gmail.com) 
 
-## 📌 About Me
-
-- 🔬 Former **Research Intern at IIT Patna**, developed deep learning–based signal classification models and wireless modulation pipelines.
-- 🧠 Passionate about solving real-world problems using **AI-integrated systems** and **scalable full-stack applications**.
-- ⚙️ Built **SmartConnect 6G** – Reinforcement Learning–based optimization for M2M communication in dense IoT (Published on ResearchGate).
-- 🚀 Currently building and deploying production-grade apps like **Learnify**, an AI-powered LMS SaaS platform, and **Deep CNN Classifier** for emotion detection.
-- 💼 Serving as **Placement Coordinator (2025–26)** and former **Athletics Captain** at BIT Mesra.
-- 📚 Strong foundation in **CS fundamentals**, including DSA, OOP, DBMS, and System Design.
-
-> “Code is the language of the future — I aim to speak it fluently.”
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vasper16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vasper16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasper16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vasper16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔗 Portfolio & Profiles
-
-- 🌐 [Portfolio Website](https://portfolio-seven-flax-38.vercel.app/)
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/jyotiraditya-tiwary-16jt)
-- 📬 [Email](mailto:jyotiraditya1602@gmail.com)
-- 📁 [Resume (Drive)](https://bit.ly/jyotiraditya-resume) <!-- Replace with correct link if needed -->
-
----
-
-## 🧰 Tech Stack
-
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
-
-**Web & Frameworks**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-
-**Platforms & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
-![Clerk](https://img.shields.io/badge/Clerk-white?style=flat&logo=clerk)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry)
-
-**AI/ML & Research**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras)
-![RL](https://img.shields.io/badge/Reinforcement_Learning-blueviolet?style=flat)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Learnify – LMS SaaS](https://github.com/Vasper16/lms-saas-app) | AI-powered EdTech platform with auth, billing, and interactive voice learning | `Next.js`, `Supabase`, `Stripe`, `Clerk`, `VAPI`, `Tailwind` |
-| [Deep CNN Classifier](https://github.com/Vasper16/Deep_Vision_Image_Classifier) | Emotion detection using CNNs on facial datasets | `TensorFlow`, `Keras`, `Python` |
-| [SmartConnect 6G](https://github.com/Vasper16/IITP_Research_Internship_2024) | RL-based LTE-A optimization for dense M2M traffic | `MATLAB`, `Python` |
-| [Portfolio Website](https://portfolio-seven-flax-38.vercel.app/) | Personal developer portfolio with projects & resume | `React`, `Vercel` |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasper16&show_icons=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasper16&theme=github-dark-blue" width="47%" />
-</p>
-
----
-
-## 📚 Research Publication
-
-- 📄 [SmartConnect 6G – ResearchGate Link](https://www.researchgate.net/publication/393475650)
-
----
-
-## 💬 Let’s Collaborate
-
-I’m always open to:
-- 💼 Internships or freelance tech gigs
-- 🧠 Research collaborations (ML, AI, Wireless)
-- 🤝 Networking with tech and innovation-driven minds
-
-> Feel free to connect or drop a message. I’d love to chat!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
