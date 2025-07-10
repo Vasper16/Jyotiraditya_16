@@ -34,11 +34,12 @@ I love performance — whether it's improving my **100m sprint from 13s to 11.4s
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_jyotiraditya_1602/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotiraditya-tiwary-16jt)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jyotir_1602)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwaryjyotiraditya365@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_jyotiraditya_1602/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotiraditya-tiwary-16jt) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jyotir_1602) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwaryjyotiraditya365@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=vercel&logoColor=white)](https://portfolio-seven-flax-38.vercel.app/)
+
 
 ---
 
