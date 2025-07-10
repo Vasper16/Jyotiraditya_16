@@ -1,21 +1,95 @@
-#  About Me:
-<h1 align="center">Hi there, I'm Jyotiraditya Tiwary 👋</h1><br><br>🎓 Final Year Electronics & Communication Engineering student at **BIT Mesra**  <br>🏃‍♂️ Athlete | 📡 5G/6G Research Enthusiast | 👨‍💻 Front-End Developer  <br><br>💼 Former Research Intern at **IIT Patna**, focused on **MATLAB** and **signal processing** applications in Digital Communication domain  <br>🔬 Actively researching **AI for Wireless Communication** and **MIMO-OFDM optimization**  <br>📚 Proficient in **C++**, **Python**, and **DSA**  <br>🧠 Currently learning **Deep Learning** to enhance my AI skillset  <br>🌐 Passionate about building responsive and modern **Web Projects**  <br>🚀 Always exploring real-world tech applications that create real impact<br><br>> “Code is the language of the future — I aim to speak it fluently.”<br><br>📌 I'm always open to collaboration, mentorship, and innovative projects.<br> <br> Deep Learning <br>
+# 👋 Hi there, I'm Jyotiraditya Tiwary
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jyotiraditya_1602) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jyotiraditya-tiwary-16jt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotiraditya1602@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vasper16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vasper16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasper16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vasper16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 Final-year B.Tech in Electronics and Communication Engineering at **BIT Mesra**  
+💻 Full-stack Developer | 🤖 AI/ML Enthusiast | 📶 Wireless Researcher | 🏃‍♂️ Athlete & Leader
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vasper16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 About Me
+
+- 🔬 Former **Research Intern at IIT Patna**, developed deep learning–based signal classification models and wireless modulation pipelines.
+- 🧠 Passionate about solving real-world problems using **AI-integrated systems** and **scalable full-stack applications**.
+- ⚙️ Built **SmartConnect 6G** – Reinforcement Learning–based optimization for M2M communication in dense IoT (Published on ResearchGate).
+- 🚀 Currently building and deploying production-grade apps like **Learnify**, an AI-powered LMS SaaS platform, and **Deep CNN Classifier** for emotion detection.
+- 💼 Serving as **Placement Coordinator (2025–26)** and former **Athletics Captain** at BIT Mesra.
+- 📚 Strong foundation in **CS fundamentals**, including DSA, OOP, DBMS, and System Design.
+
+> “Code is the language of the future — I aim to speak it fluently.”
+
+---
+
+## 🔗 Portfolio & Profiles
+
+- 🌐 [Portfolio Website](https://portfolio-seven-flax-38.vercel.app/)
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/jyotiraditya-tiwary-16jt)
+- 📬 [Email](mailto:jyotiraditya1602@gmail.com)
+- 📁 [Resume (Drive)](https://bit.ly/jyotiraditya-resume) <!-- Replace with correct link if needed -->
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
+
+**Web & Frameworks**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+
+**Platforms & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+![Clerk](https://img.shields.io/badge/Clerk-white?style=flat&logo=clerk)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry)
+
+**AI/ML & Research**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-blueviolet?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Learnify – LMS SaaS](https://github.com/Vasper16/lms-saas-app) | AI-powered EdTech platform with auth, billing, and interactive voice learning | `Next.js`, `Supabase`, `Stripe`, `Clerk`, `VAPI`, `Tailwind` |
+| [Deep CNN Classifier](https://github.com/Vasper16/Deep_Vision_Image_Classifier) | Emotion detection using CNNs on facial datasets | `TensorFlow`, `Keras`, `Python` |
+| [SmartConnect 6G](https://github.com/Vasper16/IITP_Research_Internship_2024) | RL-based LTE-A optimization for dense M2M traffic | `MATLAB`, `Python` |
+| [Portfolio Website](https://portfolio-seven-flax-38.vercel.app/) | Personal developer portfolio with projects & resume | `React`, `Vercel` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasper16&show_icons=true&theme=github_dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasper16&theme=github-dark-blue" width="47%" />
+</p>
+
+---
+
+## 📚 Research Publication
+
+- 📄 [SmartConnect 6G – ResearchGate Link](https://www.researchgate.net/publication/393475650)
+
+---
+
+## 💬 Let’s Collaborate
+
+I’m always open to:
+- 💼 Internships or freelance tech gigs
+- 🧠 Research collaborations (ML, AI, Wireless)
+- 🤝 Networking with tech and innovation-driven minds
+
+> Feel free to connect or drop a message. I’d love to chat!
+
