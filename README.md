@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 Research Intern @ IIT Patna '25 (Deep Learning) | Placement Coordinator | C++ | Full-Stack Developer | AI/ML Enthusiast
 
