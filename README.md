@@ -1,31 +1,33 @@
-# 💫 About Me
+# 💫 About Me  
 
-Research Intern @ IIT Patna '25 (Deep Learning) | Placement Coordinator | C++ | Full-Stack Developer | AI/ML Enthusiast
+Research Intern @ IIT Patna '25 (Deep Learning & AI) | Placement Coordinator | C++ | Full-Stack Developer | AI/ML Enthusiast  
 
 🛰 I’m currently working on  
-- Building an AI-powered LMS SaaS platform (**Learnify**) with real-time voice interaction using **VAPI (AI agent)**  
-- Designing an AI YouTube Automation pipeline using **n8n**, **JSON2Video**, **ElevenLabs**, and prompt-driven voice agents  
-- Developing **CNN-based emotion recognition models** and **SmartConnect 6G** for IoT optimization  
+- Building an AI-powered LMS SaaS platform (**Learnify**) with **Next.js**, **Supabase**, and real-time AI voice integration using **VAPI**  
+- Designing an **AI YouTube Automation pipeline** with **n8n**, **JSON2Video**, **ElevenLabs**, and multi-agent prompt orchestration  
+- Developing **CNN-based emotion recognition models** (91% accuracy on 35k+ dataset) and advancing research in **transformer-based DL for signal processing**  
+- Creating a **full-stack AI blog platform (BlogForgeAI)** with **MERN stack + Gemini API**, supporting 1,500+ requests/day  
 
 🤝 I’m looking to collaborate on  
-- Projects involving **AI voice/chat agents**, **prompt engineering**, or **LLM-based tools**  
-- Full-stack web apps with AI-driven backend integrations  
-- Research or open-source contributions in applied AI and automation  
+- **AI-driven applications**: chat/voice agents, prompt orchestration, GenAI-powered products  
+- **Full-stack development** with scalable cloud backends and ML integrations  
+- **Research/open-source contributions** in applied AI, edge intelligence, or automation  
 
 🤲 I’m looking for help with  
-- Scaling and deploying **AI agent systems** for production use  
-- Fine-tuning workflows for prompt orchestration and intelligent voice automation  
-- Backend infrastructure for real-time ML agent pipelines  
+- Scaling **AI agent systems** for production (real-time pipelines, cloud infra)  
+- Optimizing workflows for **voice/video AI automation**  
+- Architecting **microservices** for ML-backed applications  
 
 🌱 I’m currently learning  
-- Building and integrating autonomous **AI agents** using **n8n**, **LangChain**, **ElevenLabs**, and **WAPI**  
-- **LLM-driven task automation** and AI workflow orchestration  
-- Backend design for scalable **AI microservices**  
+- Building autonomous **AI agents** with **LangChain**, **n8n**, and **ElevenLabs**  
+- **LLM-driven workflow automation** and deployment of agentic systems  
+- Cloud-native backend design (**AWS, Docker, Vercel**) for **AI SaaS products**  
 
 💬 Ask me about  
-- How I automated AI content creation using agents (speech + video + prompts)  
-- My research at IIT Patna on signal processing and AI integration  
-- **Learnify** – my LMS SaaS app with AI voice-based lessons  
+- How I built **Learnify** – a full-stack LMS with **AI voice lessons + Stripe integration**  
+- Scaling **BlogForgeAI** – an AI blog generator handling 100+ concurrent users on MERN stack  
+- My experience at IIT Patna developing **LLM-integrated apps** and research on **AI for communication systems**  
+- Automating AI content creation with **agents (speech + video + prompts)**  
 
 ⚡ Fun fact  
 I love performance — whether it's improving my **100m sprint from 13s to 11.4s 🏃‍♂️** or optimizing **AI pipelines** for content generation 🎬  
